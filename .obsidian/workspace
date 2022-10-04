@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "43699c5d5aef4ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f85b573e40afff",
+        "type": "leaf",
+        "dimension": 59.78695073235686,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aulas/Mecânica Clássica II/Aula 01 - Vínculos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0157fb6e27c462b2",
+        "type": "leaf",
+        "dimension": 40.21304926764314,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aulas/Mecânica Clássica II/Aula 04 - Aplicações das Equações de Lagrange.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6b5d5af5c11dec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7bd748f1f3eaaaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "742caa59240d58dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4575af3d1889bfc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "001c820fb7427f23",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "right": {
+    "id": "1eba5c2b8533d5cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "91bc8788e8eeded7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7cc02fa826eb90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aulas/Mecânica Clássica II/Aula 01 - Vínculos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0061d6ed64aae952",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aulas/Mecânica Clássica II/Aula 01 - Vínculos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dffa654c616ba0f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "351ee44c52574c72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aulas/Mecânica Clássica II/Aula 01 - Vínculos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0f85b573e40afff",
+  "lastOpenFiles": [
+    "Aulas/Mecânica Clássica II/Aula 04 - Aplicações das Equações de Lagrange.md",
+    "Aulas/Mecânica Clássica II/Aula 03 - Equações de Lagrange.md",
+    "Aulas/Mecânica Clássica II/Aula 02 - Princípio de d'Alembert e Coordenadas Generalizadas.md",
+    "Aulas/Mecânica Clássica II/Aula 01 - Vínculos.md",
+    "README.md"
+  ]
+}
